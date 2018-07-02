@@ -1,5 +1,9 @@
 <img src="Docs/logo.png" alt="Logo">
 
+<a href="https://github.com/EmuZONE/Nintendo-64/raw/master/Emulatoren/Android/ClassicBoy_Full_v2.0.3.zip">ClassicBoy (Android)</a>
+
+<a href="#">Project64 (Windows)</a>
+
 Das Nintendo 64 (kurz N64, auch als der oder die Nintendo 64 bezeichnet), benannt nach seinem 64-Bit-Hauptprozessor, ist die dritte stationäre Videospielkonsole von Nintendo. Es ist der Nachfolger des Super Nintendo Entertainment Systems und nach dem Atari Jaguar die zweite 64-Bit-Spielekonsole. Als Teil der fünften Konsolengeneration konkurrierte es hauptsächlich mit der Sony PlayStation und dem Sega Saturn, konnte jedoch nur letztere Konsole schlagen.
 
 Veröffentlicht wurde es im Juni 1996 zunächst in Japan. In Deutschland kam die Konsole am 1. März 1997 zum Preis von 399 DM auf den Markt, wurde jedoch nach nur acht Wochen auf 299 DM reduziert. Zum Verkaufsstart waren in Deutschland mit Super Mario 64 und Pilotwings 64 zwei Spiele erhältlich, wenige Wochen später folgten weitere Titel.
